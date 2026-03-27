@@ -1,1 +1,1 @@
-"public static void main (String [] args) {System.out.println("fixed");/*no longer empty*/ return;}"
+public static void main (String args) {System.out.println("hehehe"); return} 
